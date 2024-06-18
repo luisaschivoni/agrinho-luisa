@@ -1,5 +1,5 @@
 :root {
-    --cor-primaria: #3498db; /* Cor principal */
+    --cor-primaria: #000000; /* Cor principal */
     --cor-secundaria: #2ecc71; /* Cor secundária */
     --fonte-principal: 'Roboto', sans-serif; /* Fonte principal */
 }
@@ -16,7 +16,7 @@ body {
 }
 
 header {
-    background: linear-gradient(to bottom, var(--cor-primaria), #2980b9);
+    background: linear-gradient(to bottom, var(--cor-primaria), #000000);
     color: white;
     padding: 30px 0;
     text-align: center;
